@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ankit Kumar Das
-- 👀 I’m interested in Coding 
+- 👀 I’m interested in Coding and Development
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on Youtube
 - 📫 reach me on dasankit40@gmail.com and https://www.linkedin.com/in/ankit--das/
