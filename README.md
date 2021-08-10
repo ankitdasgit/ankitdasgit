@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on Youtube
-- 📫 reach me on dasankit40@gmail.com and LinkedIn 
+- 📫 reach me on dasankit40@gmail.com and https://www.linkedin.com/in/ankit--das/
 
 
 <!---
