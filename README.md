@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankit Kumar Das
 - 👀 I’m interested in Coding and App Development
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning Flutter Development
 - 💞️ I’m looking to collaborate on Youtube
 - 📫 reach me on dasankit40@gmail.com and https://www.linkedin.com/in/ankit--das/
 
