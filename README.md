@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collaborate on **youtube**
 
-- 👨‍💻 All of my projects are available at [https://ankitdasgit.github.io/My-Portfolio/](https://ankitdasgit.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at (https://github.com/ankitdasgit)
 
-- 💬 Ask me about **DSA, HTML, CSS, ANDROID DEV, WEB DEV**
+- 💬 Ask me about **DSA, HTML, CSS, Android Development**
 
-- 📫 How to reach me **Dasankit40@gmail.com and  https://www.linkedin.com/in/ankit--das/**
+- 📫 Reach me on **Dasankit40@gmail.com and  https://www.linkedin.com/in/ankit--das/**
 
-- 📄 Know about my experiences [https://github.com/ankitdasgit/Resume](https://github.com/ankitdasgit/Resume)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
