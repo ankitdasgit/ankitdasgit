@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at (https://github.com/ankitdasgit)
 
-- 💬 Ask me about **DSA, HTML, CSS, Android Development**
+- 💬 Ask me about **DSA, HTML, CSS, MERN**
 
 - 📫 Reach me on **Dasankit40@gmail.com and  https://www.linkedin.com/in/ankit--das/**
 
