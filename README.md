@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar Das</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate Cloud Engineer India</h3>
 <img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitdasgit&label=Profile%20views&color=0e75b6&style=flat" alt="ankitdasgit" /> </p>
 
-- 🔭 I’m currently working on **real time file sharing system**
+- 🔭 I’m currently working on **Aws and DevOps tools**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **DevOps tools**
 
 - 👯 I’m looking to collaborate on **youtube**
 
 - 👨‍💻 All of my projects are available at (https://github.com/ankitdasgit)
 
-- 💬 Ask me about **DSA, HTML, CSS, MERN**
+- 💬 Ask me about **DSA, HTML, CSS, MERN, Cloud Computing**
 
 - 📫 Reach me on **Dasankit40@gmail.com and  https://www.linkedin.com/in/ankit--das/**
 
