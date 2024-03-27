@@ -39,15 +39,15 @@
 
 <p>Hello 👦️, I am Ankit Kumar Das an enthusiastic Computer Science Student, who aims beyond limits and enjoys helping others along the way.
 
-I started my programming journey with a simple "Hello World" program in C and found my love for programming along the way. Then I started learning App Development, spark Ar, and Full stack (Mern) and realized how much I love learning new technologies and using them to solve real-world problems. I am currently skilled in the following tools and technologies:
+I started my programming journey with a simple "Hello World" program in C and found my love for programming along the way. Then I started learning App Development, spark Ar, and Full stack (Mern),Cloud Computing and realized how much I love learning new technologies and using them to solve real-world problems. I am currently skilled in the following tools and technologies:
 
 👉 Programming Languages: Java, C++, JavaScript
 👉 Operating Systems: Linux, Windows
 👉 Back-end Development: Node.js
-👉 Cloud computing: AWS
+👉 Cloud computing: AWS, Azure
 👉 Databases: MongoDB, MySql
 👉 Front-end Development: HTML, CSS, React.js
-👉 SCM: GitHub</p>
+👉 SCM: GitHub,GitLab</p>
 
 
 
