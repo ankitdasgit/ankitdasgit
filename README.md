@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DevOps tools**
 
-- 👯 I’m looking to collaborate on **youtube**
+- 👯 I’m looking to collaborate on **Linkedin**
 
 - 👨‍💻 All of my projects are available at (https://github.com/ankitdasgit)
 
